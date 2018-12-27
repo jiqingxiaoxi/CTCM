@@ -1,4 +1,4 @@
-This is a customizable system to construct transcriptomes for coral and symbiodinium: CTCM (Classify Transcripts from Coral Metatranscriptome).
+This is a customizable system to construct transcriptomes for coral and symbiodinium: CTCM (Classifying Transcripts from Coral Metatranscriptome).
 ######
 Introduction:
   Construction the complete reference transcriptomes for coral and symbiodinium is an important step to analyze the coral community. CTCM classifies the transcripts assembled from coral metatranscriptome for coral and symbiodinium based on alignments. CTCM is evaluated by simulated datasets and real datasets, it can genereate more sensitive and specific classification for coral and symbiodinium than existed methods.  
